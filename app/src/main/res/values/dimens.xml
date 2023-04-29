@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dp180">180dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+
+    <dimen name="sp16">16sp</dimen>
+
+</resources>

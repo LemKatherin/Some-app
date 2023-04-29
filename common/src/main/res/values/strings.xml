@@ -1,0 +1,5 @@
+<resources>
+    <string name="error">Something went wrong</string>
+    <string name="error_auth">Authentication failed</string>
+    <string name="error_connection">Please check your internet connection</string>
+</resources>
